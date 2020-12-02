@@ -1,6 +1,8 @@
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-
 # Awesome Energy Control App
+
+> Awesome Energy Control App Hardware, Software, Internet of Things projects and resources.
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
