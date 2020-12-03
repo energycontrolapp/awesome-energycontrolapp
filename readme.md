@@ -1,3 +1,6 @@
+<--
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+-->
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 # Awesome Energy Control App
@@ -69,9 +72,9 @@
 ## macOS
 
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers.
-- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell tools specific to OS X.
-- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) -Awesome macOS open source applications.
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for  Apple Watch.
+- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell tools specific to macOS.
+- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) - Awesome macOS open source applications.
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for Apple Watch.
 
 ## Linux
 
@@ -232,3 +235,5 @@
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+
+
