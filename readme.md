@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Energy Control App](https://energycontrolapp.github.io)
+# [Awesome Energy Control App](https://energycontrolapp.github.io)
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form. [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) lists [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
 
