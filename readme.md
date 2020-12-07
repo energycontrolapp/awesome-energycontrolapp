@@ -1,236 +1,139 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# Awesome Energy Control App
+# [Energy Control App](https://energycontrolapp.github.io)
 
-> A carefully curated list of Awesome Software and Hardware to control energy, manage electricity and HVAC. There is an App for that: Energy Control App.
- 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form. [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) lists [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
 
-## Contents
+![awesome](awesome.svg)
 
-- [Platforms](#platforms)
-- [iOS](#ios)
-- [Android](#android)
-- [Windows](#windows)
-- [macOS](#macos)
-- [Linux](#linux)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
+Commercial support and professional services are available from the open source community.
 
+## Support
 
-## Platforms
+- [Safety](#safety)
+- [Controls](#controls)
+- [Protection](#protection)
+- [Physical Security](#physical-security)
+- [Protocols](#protocols)
+- [Software](#software)
+- [Assembly](#assembly)
+- [Rust](#rust)
+- [HVAC](#hvac)
+- [Fire Alarms](#fire-alarms)
+- [Building Codes](#building-codes)
+- [Standards](#standards)
+- [Manufacturers](#manufacturers)
+- [Electronics](#electronics)
+- [Batteries](#batteries)
+- [Magazines](#magazines)
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Chrome JavaScript runtime engine.
-- [Cross-Platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Cross-Platform mobile SDK for building native iOS and Android apps.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - JavaScript and TypeScript runtime that uses V8 and is built in Rust.
-- [IoT and Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme) - Awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
+## Safety
 
-## iOS
+![controlshierarchy](controlshierarchy.png)
 
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
-## Android
+- [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [Masks](https://en.m.wikipedia.org/wiki/NIOSH_air_filtration_rating) - Air filtration respirators.
 
-## Windows
+## Controls
 
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme) - An awesome curated list of best applications and tools for Windows.
+- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
-## macOS
+## Protection
 
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers.
-- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell tools specific to macOS.
-- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) - Awesome macOS open source applications.
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for Apple Watch.
+- [Electrical Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
 
-## Linux
+- [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme) - Especially awesome things related to the Linux ecosystem.
-- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers#readme) - Containers frameworks, libraries and software.
-- [Linux eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine for tracing and monitoring.
+- [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Programming Languages
+## Physical Security
 
+- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
 
-- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - Python for microcontrollers.
+- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
 
-## Front-End Development
+- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) - An aggregation of tooling for using ECMAScript today.
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - A curated list of Web Performance Optimization tools.
-- [Web Tools](https://github.com/lvwzhen/tools#readme) - An awesome list of hosted tools for web development.
+## Protocols
 
+- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
-## Back-End Development
+- [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
 
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+![bacnet](bacnetashraetm.png)
 
+- [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
-## Computer Science
+## Software
 
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme) - A curated list of cryptography resources and links.
+- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
 
+> ![apacheofbiz](apacheofbiz.png)
 
-## Big Data
+## Rust
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme) - A curated list of awesome big data frameworks, resources and other awesomeness.
+- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
 
+- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
 
-## Theory
+- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
 
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme) - A helpful checklist of Search Engine Optimization (SEO) tips and techniques.
+- [Yew](https://github.com/jetli/awesome-yew) - Yew is Rust and WASM for creating multi-threaded apps with WebAssembly.
 
+## HVAC
 
-## Books
+- [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
 
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme) - A collection of Awesome resources for technical book authors.
+## Fire Alarms
 
+- [Fire Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
 
-## Editors
+## Building Codes
 
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Building codes](https://en.m.wikipedia.org/wiki/Building_code) - Building codes.
 
+## Standards
 
-## Gaming
+- [Canadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code) - Canadian Electrical Code.
 
-- [Game Development](https://github.com/ellisonleao/magictools#readme) - A curated list of game development resources to make magic happen.
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
-- [Open Source Games](https://github.com/leereilly/games#readme) - Open Source games and game-related projects.
+> ![csa](csa.png)
 
+- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - ISO Standards for building energy management systems.
 
-## Development Environment
+> ![iso](iso.png)
 
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during git workflows.
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+## Manufacturers
 
+- [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
 
-## Entertainment
+- [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
-- [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme) - A curated list of Awesome Geek Podcasts.
+## Electronics
 
+- [Digi](https://en.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
-## Databases
+- [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Software that makes working with databases easier.
+> ![energystar.png](energystar.png)
 
+- [Circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
 
-## Media
+- [Electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
 
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+- [Electronics](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
 
+- [Electronics DIY](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
 
-## Learn
+## Batteries
 
-- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
-- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
+- [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
 
 
-## Security
+## Magazines
 
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web  services.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing with randomly generated data.
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
-
-## Content Management Systems
-
-- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-
-
-## Hardware
-
-- [Awesome Internet of Things](https://github.com/HQarroum/awesome-iot/) - A curated list of awesome Internet of Things projects and resources.
-
-## Business
-
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting and communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to improve strategic planning and decision making.
-
-
-## Work
-
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
-
-
-## Networking
-
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme) - An awesome list of resources to construct, analyze and visualize network data.
-
-
-## Decentralized Systems
-
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
-
-
-## Higher Education
-
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
-
-
-## Events
-
-- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for coding, tech and cool stuff.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
-
-
-## Testing
-
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
-
-
-## Miscellaneous
-
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-
-
-## Related
-
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-
-
+> ![hpacengineering](hpacengineering.png)
