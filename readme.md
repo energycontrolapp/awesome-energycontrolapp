@@ -1,35 +1,36 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Awesome Energy Control App](https://energycontrolapp.github.io)
+# Energy Control App
 
-> Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form. [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) lists [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
+> Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
 ![awesome](awesome.svg)
 
-Commercial support and professional services are available from the open source community.
+Commercial support and professional services are available from Open Source hardware and software Developers.
 
-## Support
+## Contents
 
-- [Safety](#safety)
+- [**Safety**](#safety)
 - [Controls](#controls)
 - [Protection](#protection)
-- [Physical Security](#physical-security)
+- [Security](#security)
 - [Protocols](#protocols)
 - [Software](#software)
-- [Assembly](#assembly)
-- [Rust](#rust)
 - [HVAC](#hvac)
-- [Fire Alarms](#fire-alarms)
-- [Building Codes](#building-codes)
+- [Alarms](#alarms)
 - [Standards](#standards)
 - [Manufacturers](#manufacturers)
 - [Electronics](#electronics)
-- [Batteries](#batteries)
 - [Magazines](#magazines)
+- [OpenSource](#opensource)
+- [PhySec](#physec)
+- [Rust](#rust)
+- [Circuits](#circuits)
+- [Sustainable](#sustainable)
 
 ## Safety
 
-![controlshierarchy](controlshierarchy.png)
+> ![controlshierarchy](controlshierarchy.png)
 
 - [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
@@ -39,7 +40,7 @@ Commercial support and professional services are available from the open source 
 
 ## Controls
 
-- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
+- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
 
 ## Protection
 
@@ -49,23 +50,15 @@ Commercial support and professional services are available from the open source 
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Physical Security
+## Security
 
 - [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
-
-- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
-
-- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
 
 ## Protocols
 
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
-- [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
-
-![bacnet](bacnetashraetm.png)
-
-- [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+> ![bacnet.png](bacnet.png)
 
 ## Software
 
@@ -73,43 +66,25 @@ Commercial support and professional services are available from the open source 
 
 > ![apacheofbiz](apacheofbiz.png)
 
-## Rust
-
-- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
-
-- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
-
-- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
-
-- [Yew](https://github.com/jetli/awesome-yew) - Yew is Rust and WASM for creating multi-threaded apps with WebAssembly.
-
 ## HVAC
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
 
-## Fire Alarms
+## Alarms
 
 - [Fire Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
 
-## Building Codes
-
-- [Building codes](https://en.m.wikipedia.org/wiki/Building_code) - Building codes.
-
 ## Standards
 
-- [Canadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code) - Canadian Electrical Code.
+- [Canadian_Electrical_Code](https://en.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
 
 > ![csa](csa.png)
-
-- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - ISO Standards for building energy management systems.
-
-> ![iso](iso.png)
 
 ## Manufacturers
 
 - [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
 
-- [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
+- [Building Automation](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
 ## Electronics
 
@@ -119,21 +94,46 @@ Commercial support and professional services are available from the open source 
 
 > ![energystar.png](energystar.png)
 
-- [Circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
-
-- [Electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
-
-- [Electronics](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
-
-- [Electronics DIY](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
-
-## Batteries
-
-- [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
-
-
 ## Magazines
 
 - [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
 > ![hpacengineering](hpacengineering.png)
+
+---
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
+
+> ![awesome](awesome.svg)
+
+> Support provided by the open source community.
+
+## OpenSource
+
+## PhySec
+
+- [PhySec](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+
+## Rust
+
+- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
+
+- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+
+- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+
+## Circuits
+
+- [awesome-circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
+
+- [awesome-electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
+
+- [awesome-electronic-engineering](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
+
+- [awesome-electronics](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
+
+## Sustainable
+
+- [Sustainable](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
