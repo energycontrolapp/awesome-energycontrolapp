@@ -4,9 +4,9 @@
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
-![awesome](awesome.svg)
+> ![awesome.svg](awesome.svg)
 
-Commercial support and professional services are available from Open Source hardware and software Developers.
+> Commercial support and professional services are available from Open-Source hardware and software developers.
 
 ## Contents
 
@@ -22,7 +22,8 @@ Commercial support and professional services are available from Open Source hard
 - [Manufacturers](#manufacturers)
 - [Electronics](#electronics)
 - [Magazines](#magazines)
-- [OpenSource](#opensource)
+- [**Awesome-EnergyControlApp**](#awesome-energycontrolapp)
+- [**Open-Source**](#open-source)
 - [PhySec](#physec)
 - [Rust](#rust)
 - [Circuits](#circuits)
@@ -30,7 +31,7 @@ Commercial support and professional services are available from Open Source hard
 
 ## Safety
 
-> ![controlshierarchy](controlshierarchy.png)
+> ![controlshierarchy.png](controlshierarchy.png)
 
 - [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
@@ -78,7 +79,7 @@ Commercial support and professional services are available from Open Source hard
 
 - [Canadian_Electrical_Code](https://en.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
 
-> ![csa](csa.png)
+> ![csa.png](csa.png)
 
 ## Manufacturers
 
@@ -88,9 +89,9 @@ Commercial support and professional services are available from Open Source hard
 
 ## Electronics
 
-- [Digi](https://en.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
+- [Digi](https://en.m.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
-- [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
+- [Energy Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
 > ![energystar.png](energystar.png)
 
@@ -98,31 +99,35 @@ Commercial support and professional services are available from Open Source hard
 
 - [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
-> ![hpacengineering](hpacengineering.png)
+> ![hpacengineering.png](hpacengineering.png)
 
 ---
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
+## Awesome-EnergyControlApp
 
-> ![awesome](awesome.svg)
+> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of Open-Source projects that can **control energy** in some way.
 
-> Support provided by the open source community.
+> ![awesome.svg](awesome.svg)
 
-## OpenSource
+> Support provided by the Open-Source community.
+
+## Open-Source
+
+- [Open-Source](https://github.com/open-source) - Open-Source.
 
 ## PhySec
 
-- [PhySec](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+- [Awesome-PhySec](https://github.com/l373/Awesome-PhySec) - PhySec repository.
 
 ## Rust
 
-- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
+- [rust-lang.org](https://www.rust-lang.org/) - Rust Programming Language.
 
-- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+- [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
 
-- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
 
 ## Circuits
 
@@ -136,4 +141,4 @@ Commercial support and professional services are available from Open Source hard
 
 ## Sustainable
 
-- [Sustainable](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
+- [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
